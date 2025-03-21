@@ -1,14 +1,14 @@
 # My Portfolio
 
-Benvenuti nel mio portfolio di progetti! Qui troverete una raccolta dei miei lavori legati a **Machine Learning**, **Data Science**, e **Intelligenza Artificiale**.
+Welcome to my project portfolio! Here you'll find a collection of my works related to **Machine Learning**, **Data Science**, and **Artificial Intelligence**.
 
-## Progetti
+## Projects
 
-1. [PredictionChurn](./predictionchurn) - Un progetto di previsione dell'abbandono dei clienti con un modello di machine learning.
-2. Progetto 2 - Descrizione del progetto 2.
-3. Progetto 3 - Descrizione del progetto 3.
+1. [PredictionChurn](./predictionchurn) - A project for predicting customer churn using a machine learning model.
+2. Project 2 (soon)
+3. Project 3 (soon)
 
-Ogni cartella contiene:
-- I file di codice sorgente.
-- Un file `README.md` con dettagli su come eseguire il progetto.
-- Eventuali dataset o immagini risultanti dal progetto.
+Each folder contains:
+- The source code files.
+- A `README.md` file with instructions on how to run the project.
+- Any datasets or images generated from the project.
