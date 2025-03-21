@@ -4,7 +4,7 @@ Welcome to my project portfolio! Here you'll find a collection of my works relat
 
 ## Projects
 
-1. [PredictionChurn](./predictionchurn) - A project for predicting customer churn using a machine learning model.
+1. [PredictionChurn](https://github.com/martinabavetta7/discoverchurnbymb) - A project for predicting customer churn using a machine learning model.
 2. Project 2 (soon)
 3. Project 3 (soon)
 
